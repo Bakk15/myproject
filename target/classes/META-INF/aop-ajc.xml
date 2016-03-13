@@ -1,0 +1,18 @@
+<aspectj>
+<aspects>
+<aspect name="com.myproject.registration.web.converter.PersonConverter_Roo_Converter"/>
+<aspect name="com.myproject.registration.domain.Person_Roo_JavaBean"/>
+<aspect name="com.myproject.registration.web.PersonBean_Roo_Serializable"/>
+<aspect name="com.myproject.registration.web.PersonBean_Roo_Configurable"/>
+<aspect name="com.myproject.registration.domain.Person_Roo_Finder"/>
+<aspect name="com.myproject.registration.domain.Person_Roo_Jpa_Entity"/>
+<aspect name="com.myproject.registration.web.ApplicationBean_Roo_ApplicationBean"/>
+<aspect name="com.myproject.registration.web.PersonBean_Roo_ManagedBean"/>
+<aspect name="com.myproject.registration.domain.Person_Roo_Configurable"/>
+<aspect name="com.myproject.registration.web.ApplicationBean_Roo_Configurable"/>
+<aspect name="com.myproject.registration.domain.Person_Roo_Jpa_ActiveRecord"/>
+<aspect name="com.myproject.registration.domain.Person_Roo_ToString"/>
+<aspect name="com.myproject.registration.web.converter.PersonConverter_Roo_Configurable"/>
+</aspects>
+</aspectj>
+
